@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
 /*0000視差滾動0000000*/
-  $('.parallax-window01').parallax({imageSrc:'images/bg-1.jpg'});
-  $('.parallax-window02').parallax({imageSrc:'images/bg02.jpg'});
-  $('.parallax-window03').parallax({imageSrc:'images/bg-1.jpg'});
+  $('.parallax-window01').parallax({imageSrc:'images/bg-2.jpg'});
+  $('.parallax-window02').parallax({imageSrc:'images/bg03.jpg'});
+  $('.parallax-window03').parallax({imageSrc:'images/bg-2.jpg'});
 
 /*漢堡選單*/
  $('.showmenu').on('click',  function(e){
